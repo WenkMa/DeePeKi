@@ -1,0 +1,2 @@
+# DeePeKi
+基于DeepEncoder和Qwen的视觉文档解析问答模型
