@@ -1,0 +1,7 @@
+torch>=2.1
+transformers>=4.30.0,<4.48.0
+accelerate
+peft
+datasets
+pillow
+deepseek-ocr-encoder>=0.1.0
